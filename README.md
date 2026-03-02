@@ -19,3 +19,14 @@ A system monitor made with Python
 -- "python -m pip install psutil"
 
 -- "python -m pip install colorama"
+
+# Using
+
+Run "system-monitor.py"
+
+and it should work!
+
+# Credits
+
+Main project made by Earth Voxels
+README made by Wind

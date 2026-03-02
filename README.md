@@ -30,4 +30,4 @@ and it should work!
 
 Main project made by Earth Voxels
 
-README made by Wind
+README made by Earth Voxels

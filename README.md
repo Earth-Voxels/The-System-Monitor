@@ -4,6 +4,8 @@ A system monitor made with Python
 # Requirements
 -Any Windows NT Operating system
 
+-Any Linux distro
+
 -Python 3.0 +
 
 -psutil
